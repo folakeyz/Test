@@ -2,7 +2,7 @@
 
 $servername = "bakomysql.mysql.database.azure.com";
 $dbusername = "bakoadmin@bakomysql";
-$dbpassword = "P@$$w0rd2019";
+$dbpassword = 'P@$$w0rd2019';
 $dbname = "bakomysql";
 
 $conn = mysqli_connect($servername, $dbusername, $dbpassword, $dbname);
