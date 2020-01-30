@@ -1,3 +1,4 @@
+<?php require'dbh.inc.php';?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
